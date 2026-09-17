@@ -1,0 +1,2 @@
+# Edge_AI_Based_Smart_EV_Charging_Station_Optimizer
+Iot- Embedded loT Programming internship
